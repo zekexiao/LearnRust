@@ -27,7 +27,7 @@ fn main(){
         ref mut mutr => {
             *mutr = 10;
             println!("z = {}", mutr);
-        },
+        }
     }
     //用ref获得一个引用，可以是mut可以是immut
 
